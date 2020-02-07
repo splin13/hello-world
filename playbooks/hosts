@@ -1,0 +1,7 @@
+[wrk]
+195.208.161.151
+[wrk:vars]
+ansible_become=yes
+ansible_become_method=sudo
+ansible_user=gorin
+ansible_become_pass=@1@u10b@1@bug0
